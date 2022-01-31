@@ -8,12 +8,6 @@ This is a monorepo containing multiple packages centered around procedural gener
 
 Node graph based editing for assembling meshes, with only a few available nodes.
 
-## [L System](Packages/com.dman.l-system)
-
-[![openupm](https://img.shields.io/npm/v/com.dman.l-system?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.dman.l-system/)
-
-An implementation of an L System parser and a 3D Turtle interpreter
-
 ## [Mesh draft extensions](Packages/com.dman.MeshDraftExtensions)
 
 [![openupm](https://img.shields.io/npm/v/com.dman.mesh-draft-extensions?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.dman.mesh-draft-extensions/)
